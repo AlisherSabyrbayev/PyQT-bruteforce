@@ -1,0 +1,45 @@
+============================================================
+               CREDIT FILE — FINAL PYTHON PROJECT
+============================================================
+
+Project Title: ExcelRecover
+Author: Alisher, Jasulan [IITU - 1st Year Students]
+Mentor: Амантаева Айдана Байдәулетқызы
+Course: Python Programming Final Project
+Institution: International Information Technology University (IITU)
+Date: May 2025
+
+------------------------------------------------------------
+Project Description:
+------------------------------------------------------------
+This project is a Python-based utility designed to recover access to protected Excel (.xlsx) files
+by intelligently brute-forcing the password and creating an identical, unprotected copy of the original file.
+It preserves all contents and structure, providing the user with a usable version of the document when the password is forgotten or lost.
+
+
+Key Features:
+- Automated password cracking for Excel files
+- Creation of decrypted copies with full data retention
+- Console output with progress updates
+- Easy-to-use and configurable codebase
+
+------------------------------------------------------------
+Disclaimer & Licensing:
+------------------------------------------------------------
+⚠️ This tool is intended strictly for educational purposes and personal data recovery only. 
+Unauthorized use of this software to access documents without the owner's consent is prohibited and may violate laws.
+
+© 2025 Alisher. All rights reserved.
+Protected under the Creative License of IITU.
+
+This software is distributed “as is”, without any warranty.
+By using this tool, you agree to use it responsibly.
+
+------------------------------------------------------------
+Thank You Note:
+------------------------------------------------------------
+Special thanks to the instructors of IITU for their guidance and support. 
+Python has opened the gates to automation, and this project is a testament to the power of scripting.
+
+"Where there's code, there's a way." 🧠🐍
+============================================================
